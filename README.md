@@ -400,6 +400,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Raiden Khan** — raiden.khan@university.edu
+**Gyimah Emmanuel** — iamegyimah@gmail.com
 
 Project Link: [https://github.com/raidenkhan/ELECTRICITY_PRICE_FORECASTING](https://github.com/raidenkhan/ELECTRICITY_PRICE_FORECASTING)
